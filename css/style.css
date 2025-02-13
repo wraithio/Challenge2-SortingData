@@ -6,7 +6,10 @@
 body {
   font-family: "Roboto", Arial, Helvetica, sans-serif !important;
  background-image: url('/assets/siteBG1.jpg');
-  color: rgb(58, 58, 58) !important;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+  color: black !important;
 }
 
 footer {
@@ -17,7 +20,7 @@ footer {
 
 a {
   color: black !important;
-  font-size: px !important;
+  font-size: 24px !important;
 }
 
 button {
@@ -31,4 +34,12 @@ button {
 .pagination {
   margin: 0px;
   margin: 1rem;
+}
+h3{
+    font-size: 22px !important;
+}
+
+h2{
+    font-size: 32px !important;
+    
 }

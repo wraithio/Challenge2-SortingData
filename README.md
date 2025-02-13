@@ -25,6 +25,6 @@ Requirements:
 
 ---
 
-github [here](https://github.com/wraithio/ARobinsonC6EnhcRNG)
+github [here](https://github.com/wraithio/Challenge2-SortingData)
 
-vercel [here](https://a-robinson-c6-enhc-rng.vercel.app/)
+vercel [here](https://challenge2-sorting-data-alpha.vercel.app/)
